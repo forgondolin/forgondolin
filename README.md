@@ -10,7 +10,7 @@ I've been working with Web Development / Web Systems for a while but always keep
 [![Mastodon](https://img.shields.io/badge/Mastodon-forgondolin-lightgrey?style=social&logo=mastodon)](https://plnetwork.xyz/@forgondolin)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kalves_rohan?style=social)](https://twitter.com/kalves_rohan)
 
-### Location
+### Location 🌍
 
 ![Location](https://img.shields.io/badge/Location-🇧🇷%20São_Paulo-green)
 
@@ -39,7 +39,7 @@ I've been working with Web Development / Web Systems for a while but always keep
 ![Pulumi](https://img.shields.io/badge/Pulumi-663399?style=flat&logo=pulumi&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-7D5B00?style=flat&logo=nix&logoColor=white)
 
-### Projects
+### Side Projects 🚀
 
 - **Instituto Aaron Swartz Volunteer**: Contributing to Education and Open Science at [Instituto Aaron Swartz](https://institutoasw.org/)
 - **Project Arandu Founder**: Founded a project at my college to teach basic engineering to public high school students. [Project Arandu](https://arandu.proec.ufabc.edu.br/)
