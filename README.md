@@ -69,7 +69,7 @@ I've been working with Web Development / Web Systems for a while but always keep
 
 
 
-![It's always DNS](https://tenor.com/view/dns-haiku-dns-haiku-tech-pod-it-was-dns-gif-27399037)
+![It's always DNS](https://tenor.com/b07T7.gif)
 
 
 
