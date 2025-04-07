@@ -17,7 +17,6 @@ I've been working with Web Development / Web Systems for a while but always keep
 
 ### My OS
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
 
 
 ### Tools and Tech
@@ -46,7 +45,6 @@ I've been working with Web Development / Web Systems for a while but always keep
 
 ### Side Projects 🚀
 
-- **Instituto Aaron Swartz Volunteer**: Contributing to Education and Open Science at [Instituto Aaron Swartz](https://institutoasw.org/)
 - **Project Arandu Founder**: Founded a project at my college to teach basic engineering to public high school students. [Project Arandu](https://arandu.proec.ufabc.edu.br/)
 - **+1code Volunteer**: Volunteering at +1code to teach web programming for free. [+1code](https://mais1code.com.br/)
 - **BR Working Group**: Building a Web 3 community focused on cutting-edge tech stack. [BR Working Group](https://brwg.org/)
