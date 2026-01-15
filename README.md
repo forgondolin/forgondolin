@@ -37,12 +37,7 @@ I've been working with Web Development / Web Systems for a while but always keep
 ![Verilog](https://img.shields.io/badge/Verilog-4D4D4D?style=flat&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-0095D5?style=flat&logoColor=white)
 
-### Side Projects 🚀
-
-- **Project Arandu Founder**: Founded a project at my college to teach basic engineering to public high school students. [Project Arandu](https://arandu.proec.ufabc.edu.br/)
-- **+1code Volunteer**: Volunteering at +1code to teach web programming for free. [+1code](https://mais1code.com.br/)
-- **BR Working Group**: Building a Web 3 community focused on cutting-edge tech stack. [BR Working Group](https://brwg.org/)
-
+  
 ### Hobbies
 
 ![Brazilian Jiu-Jitsu](https://img.shields.io/badge/Brazilian%20Jiu%20Jitsu-Blue-4100E5?style=flat&logoColor=white)
