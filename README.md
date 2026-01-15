@@ -5,15 +5,9 @@
 👨‍💻 Electronics/Telecom Engineer passionate about ARM, FPGA, RF, SDR, DSP (especially video), streaming, and cybersecurity (pentest, hardware hacking). Experienced in Infrastructure/DevOps/Platform engineering with a focus on observability, eBPF, and low-level systems.
 I've been working with Web Development / Web Systems for a while but always keeping my eyes on other IT areas. Professionally I've worked with legacy systems and cutting-edge disruptive technologies, from Delphi and VB to IPFS and Serverless.
 
-### Get in Touch
-
-[![Mastodon](https://img.shields.io/badge/Mastodon-forgondolin-lightgrey?style=social&logo=mastodon)](https://plnetwork.xyz/@forgondolin)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kalves_rohan?style=social)](https://twitter.com/kalves_rohan)
-[![Email](https://img.shields.io/badge/Tutanota-840010?style=flat&logo=Tutanota&logoColor=white)](mailto:kalebalves@tuta.io)
-
 ### Location 🌍
 
-![Location](https://img.shields.io/badge/Location-🇧🇷%20São_Paulo-green)
+![Location](https://img.shields.io/badge/Location-🇧🇷%20BR-green)
 
 ### My OS
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
